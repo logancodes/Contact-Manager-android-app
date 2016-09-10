@@ -20,7 +20,7 @@ import android.net.Uri;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//this is a test from vcs
 public class MainActivity extends AppCompatActivity {
 
     EditText nametxt, phonetxt, emailtxt, addresstxt;
